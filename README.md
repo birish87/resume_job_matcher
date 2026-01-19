@@ -250,7 +250,7 @@ No repeated embedding computation inside loops
 ```text
 Experience-based scoring bonus
 Education-level weighting
-Skill importance weighting per job
+Skill importance weighting per job (e.g., Required vs Preferred vs Bonus)
 Approximate nearest-neighbor search (FAISS)
 Vector database integration
 Async API execution

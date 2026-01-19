@@ -1,3 +1,8 @@
+# JobResumeMatcher
+# MIT License
+# Copyright (c) 2026 Bruce Irish
+
+
 import re
 import json
 import pandas as pd
