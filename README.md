@@ -49,9 +49,6 @@ Filtering & Ranking
 ▼
 API Response
 
-markdown
-Copy code
-
 ---
 
 ## How Matching Works (Detailed)
@@ -153,6 +150,7 @@ curl -X POST http://127.0.0.1:5000/api/match \
 ```
 
 ## Project Structure
+```csharp
 resume_job_matcher/
 ├── app.py                 # Flask app & matcher logic
 ├── resumes.csv            # Resume dataset
@@ -166,13 +164,15 @@ resume_job_matcher/
 ├── requirements.txt       # Dependencies
 ├── .gitignore
 └── README.md
+```
+---
+
 
 ## Configuration Files
 skills.txt
 Canonical skills list (one per line):
 
 sql
-Copy code
 python
 machine learning
 sql
@@ -184,7 +184,6 @@ synonyms.json
 Canonical skill → aliases mapping:
 
 json
-Copy code
 {
   "machine learning": ["ml", "deep learning", "dl"],
   "python": ["py"],
@@ -195,7 +194,7 @@ Copy code
   "user interface": ["ui"],
   "software as a service": ["saas"]
 }
-
+---
 ## Running Locally
 ```bash
 python -m venv venv
@@ -234,27 +233,27 @@ Sorting happens only after filtering
 
 No repeated embedding computation inside loops
 
+---
+
 ## Design Tradeoffs
-Decision	Reason
-Use MiniLM	Fast inference, good semantic quality
-Regex skills	Deterministic + explainable
-Precompute embeddings	Major latency reduction
-Weighted hybrid scoring	Balances precision & recall
+| Decision                | Reason                                |
+| ----------------------- | ------------------------------------- |
+| Use MiniLM              | Fast inference, good semantic quality |
+| Regex skills            | Deterministic + explainable           |
+| Precompute embeddings   | Major latency reduction               |
+| Weighted hybrid scoring | Balances precision & recall           |
+
+---
 
 ## Future Enhancements
 Experience-based scoring bonus
-
 Education-level weighting
-
 Skill importance weighting per job
-
 Approximate nearest-neighbor search (FAISS)
-
 Vector database integration
-
 Async API execution
-
 Authentication & user profiles
+---
 
-License
+## License
 MIT License
