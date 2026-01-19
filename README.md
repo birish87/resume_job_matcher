@@ -246,6 +246,7 @@ No repeated embedding computation inside loops
 ---
 
 ## Future Enhancements
+```text
 Experience-based scoring bonus
 Education-level weighting
 Skill importance weighting per job
@@ -253,6 +254,7 @@ Approximate nearest-neighbor search (FAISS)
 Vector database integration
 Async API execution
 Authentication & user profiles
+```
 ---
 
 ## License
