@@ -77,12 +77,11 @@ final_score =
 (skill_score × skill_weight) +
 (semantic_similarity × text_weight)
 
-yaml
-Copy code
-
+```yaml
 Default weights:
 - Skills: **60%**
 - Semantic similarity: **40%**
+```
 
 ### 5. Confidence & Ranking
 - Confidence is derived from cosine similarity
@@ -143,7 +142,6 @@ curl -X POST http://127.0.0.1:5000/api/match \
 ```
 ### Job → Resumes
 ```bash
-Copy code
 curl -X POST http://127.0.0.1:5000/api/match \
   -H "Content-Type: application/json" \
   -d '{"job":"Looking for a machine learning engineer"}'
@@ -183,7 +181,7 @@ synonyms.json
 
 Canonical skill → aliases mapping:
 
-json
+```json
 {
   "machine learning": ["ml", "deep learning", "dl"],
   "python": ["py"],
@@ -194,6 +192,7 @@ json
   "user interface": ["ui"],
   "software as a service": ["saas"]
 }
+```
 ---
 ## Running Locally
 ```bash
