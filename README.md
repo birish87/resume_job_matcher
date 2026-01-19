@@ -29,6 +29,7 @@ The result is a system that is both **accurate** and **interpretable**.
 
 ## High-Level Architecture
 
+```text
 User Input
 │
 ▼
@@ -48,7 +49,7 @@ Filtering & Ranking
 │
 ▼
 API Response
-
+```
 ---
 
 ## How Matching Works (Detailed)
@@ -79,8 +80,8 @@ final_score =
 
 ```yaml
 Default weights:
-- Skills: **60%**
-- Semantic similarity: **40%**
+- Skills: 60%
+- Semantic similarity: 40%
 ```
 
 ### 5. Confidence & Ranking
