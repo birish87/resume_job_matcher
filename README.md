@@ -72,11 +72,10 @@ API Response
 - Stored resumes and jobs have **precomputed embeddings** for performance
 
 ### 4. Scoring Formula
-
+```text
 skill_score = |matching_skills| / |job_skills|
-final_score =
-(skill_score × skill_weight) +
-(semantic_similarity × text_weight)
+final_score = (skill_score × skill_weight) + (semantic_similarity × text_weight)
+```
 
 ```yaml
 Default weights:
@@ -128,7 +127,9 @@ Accepts:
 ## API Examples
 
 ### Resume + Job (Single Match)
-
+```text
+(If using railway, replace http://127.0.0.1:5000 with your deployed URL, e.g., https://resumejobmatcher-production.up.railway.app)
+```
 ```bash
 curl -X POST http://127.0.0.1:5000/api/match \
   -H "Content-Type: application/json" \
