@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Resume-Job Matcher</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 30px; }
+        input, textarea { width: 100%; padding: 10px; margin: 10px 0; }
+        button { padding: 10px 20px; cursor: pointer; }
+        #results { margin-top: 20px; border-top: 1px solid #ccc; padding-top: 20px; }
+        .result-item { margin-bottom: 15px; padding: 10px; border: 1px solid #eee; background: #f9f9f9; }
+    </style>
+</head>
+<body>
+    <h1>Resume-Job Matcher</h1>
+
+    <!-- Input fields -->
+    <label for="resume">Resume Text:</label>
+    <textarea id="resume" placeholder="Paste candidate resume here..." rows="5"></textarea>
+
+    <label for="job">Job Description:</label>
+    <textarea id="job" placeholder="Paste job description here..." rows="5"></textarea>
+
+    <button id="matchBtn">Match</button>
+
+    <div id="results"></div>
+
+    <!-- JS -->
+    <script>
+        const matchBtn = document.getElementById('matchBtn');
+        const resultsDiv = document.getElementById('results');
+
+        matchBtn.addEventListener('click', async () => {
+            resultsDiv.innerHTML = "<p>Matching...</p>";
+
+            const resumeText = document.getElementById('resume').value.trim();
+            const jobText = document.getElementById('job').value.trim();
+
+            if (!resumeText && !jobText) {
+                resultsDiv.innerHTML = "<p>Please enter resume and/or job text.</p>";
+                return;
+            }
+
+            try {
+                const response = await fetch('/api/match', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ resume: resumeText, job: jobText })
+                });
+
+                const data = await response.json();
+
+                // Clear previous results
+                resultsDiv.innerHTML = "";
+
+                // If search returns multiple items (array)
+                if (Array.isArray(data)) {
+                    data.forEach(item => {
+                        const div = document.createElement('div');
+                        div.className = "result-item";
+                        div.innerHTML = `
+                            <strong>Match Score:</strong> ${item.match_score}% <br>
+                            <strong>Confidence:</strong> ${item.confidence} <br>
+                            <strong>Matching Skills:</strong> ${item.matching_skills.join(', ')} <br>
+                            <strong>Missing Skills:</strong> ${item.missing_skills.join(', ')} <br>
+                            ${item.resume_name ? `<strong>Resume:</strong> ${item.resume_name} <br>` : ''}
+                            ${item.job_title ? `<strong>Job:</strong> ${item.job_title} <br>` : ''}
+                            <strong>Recommendation:</strong> ${item.recommendation} <br>
+                            ${item.experience_years !== undefined ? `<strong>Experience:</strong> ${item.experience_years} years <br>` : ''}
+                            ${item.education ? `<strong>Education:</strong> ${item.education} <br>` : ''}
+                        `;
+                        resultsDiv.appendChild(div);
+                    });
+                } else {
+                    // Single match result
+                    resultsDiv.innerHTML = `
+                        <strong>Match Score:</strong> ${data.match_score}% <br>
+                        <strong>Confidence:</strong> ${data.confidence} <br>
+                        <strong>Matching Skills:</strong> ${data.matching_skills.join(', ')} <br>
+                        <strong>Missing Skills:</strong> ${data.missing_skills.join(', ')} <br>
+                        <strong>Recommendation:</strong> ${data.recommendation} <br>
+                        ${data.experience_years !== undefined ? `<strong>Experience:</strong> ${data.experience_years} years <br>` : ''}
+                        ${data.education ? `<strong>Education:</strong> ${data.education} <br>` : ''}
+                    `;
+                }
+
+            } catch (err) {
+                console.error(err);
+                resultsDiv.innerHTML = "<p>Error calling API. Make sure Flask server is running.</p>";
+            }
+        });
+    </script>
+</body>
+</html>

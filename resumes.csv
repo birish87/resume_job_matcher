@@ -1,0 +1,101 @@
+name,resume_text,skills,experience,education
+Candidate 1,"Candidate 1 with 16 years experience in Leadership, Machine Learning, React, Taxation. Education: High School.","Leadership, Machine Learning, React, Taxation",16 years,High School
+Candidate 2,"Candidate 2 with 9 years experience in Problem Solving, C++, Agile, Vue, Customer Support. Education: High School.","Problem Solving, C++, Agile, Vue, Customer Support",4 years,High School
+Candidate 3,"Candidate 3 with 17 years experience in GCP, C#, Node.js. Education: High School.","GCP, C#, Node.js",16 years,Bachelors
+Candidate 4,"Candidate 4 with 19 years experience in Marketing, Agile, SEO, Kubernetes. Education: PhD.","Marketing, Agile, SEO, Kubernetes",7 years,High School
+Candidate 5,"Candidate 5 with 17 years experience in Statistics, Adobe Photoshop, Problem Solving. Education: Bachelors.","Statistics, Adobe Photoshop, Problem Solving",3 years,High School
+Candidate 6,"Candidate 6 with 20 years experience in Agile, Problem Solving, Data Analysis. Education: High School.","Agile, Problem Solving, Data Analysis",1 years,Bachelors
+Candidate 7,"Candidate 7 with 15 years experience in C#, Taxation, UX Design, C++, Scrum, UI Design. Education: Masters.","C#, Taxation, UX Design, C++, Scrum, UI Design",1 years,High School
+Candidate 8,"Candidate 8 with 6 years experience in Content Writing, Research, Healthcare. Education: Masters.","Content Writing, Research, Healthcare",3 years,High School
+Candidate 9,"Candidate 9 with 10 years experience in Python, C++, Jira. Education: Bachelors.","Python, C++, Jira",17 years,High School
+Candidate 10,"Candidate 10 with 19 years experience in GCP, Azure, SEO. Education: Masters.","GCP, Azure, SEO",12 years,PhD
+Candidate 11,"Candidate 11 with 7 years experience in Leadership, Scrum, Healthcare, React, Node.js, Kubernetes, GCP. Education: Bachelors.","Leadership, Scrum, Healthcare, React, Node.js, Kubernetes, GCP",9 years,Bachelors
+Candidate 12,"Candidate 12 with 16 years experience in Docker, Azure, Clinical Trials. Education: Masters.","Docker, Azure, Clinical Trials",2 years,PhD
+Candidate 13,"Candidate 13 with 7 years experience in Taxation, Copywriting, Docker, Python, Leadership, Flask. Education: High School.","Taxation, Copywriting, Docker, Python, Leadership, Flask",12 years,Bachelors
+Candidate 14,"Candidate 14 with 1 years experience in Adobe Photoshop, Healthcare, React, AWS, Java. Education: PhD.","Adobe Photoshop, Healthcare, React, AWS, Java",12 years,Masters
+Candidate 15,"Candidate 15 with 5 years experience in Jira, UX Design, Docker, HTML. Education: PhD.","Jira, UX Design, Docker, HTML",8 years,High School
+Candidate 16,"Candidate 16 with 6 years experience in Agile, HTML, GCP, Azure, Testing, Healthcare. Education: High School.","Agile, HTML, GCP, Azure, Testing, Healthcare",4 years,Bachelors
+Candidate 17,"Candidate 17 with 15 years experience in Deep Learning, Content Writing, Leadership, CSS, Collaboration. Education: Masters.","Deep Learning, Content Writing, Leadership, CSS, Collaboration",3 years,Masters
+Candidate 18,"Candidate 18 with 11 years experience in Problem Solving, JavaScript, Leadership, Time Management, Angular. Education: Bachelors.","Problem Solving, JavaScript, Leadership, Time Management, Angular",4 years,PhD
+Candidate 19,"Candidate 19 with 6 years experience in UI Design, C#, Python, Angular. Education: Bachelors.","UI Design, C#, Python, Angular",6 years,PhD
+Candidate 20,"Candidate 20 with 8 years experience in Java, Flask, GCP. Education: High School.","Java, Flask, GCP",3 years,Masters
+Candidate 21,"Candidate 21 with 11 years experience in Adobe Illustrator, Kubernetes, Tableau, Problem Solving. Education: Masters.","Adobe Illustrator, Kubernetes, Tableau, Problem Solving",7 years,Bachelors
+Candidate 22,"Candidate 22 with 16 years experience in Research, Taxation, Deep Learning, Tableau, Angular, Time Management, Testing. Education: Bachelors.","Research, Taxation, Deep Learning, Tableau, Angular, Time Management, Testing",20 years,PhD
+Candidate 23,"Candidate 23 with 19 years experience in Docker, CSS, Deep Learning, Data Analysis, Collaboration. Education: PhD.","Docker, CSS, Deep Learning, Data Analysis, Collaboration",10 years,Masters
+Candidate 24,"Candidate 24 with 15 years experience in GCP, Figma, Docker, Problem Solving, CSS. Education: Bachelors.","GCP, Figma, Docker, Problem Solving, CSS",16 years,PhD
+Candidate 25,"Candidate 25 with 20 years experience in Content Writing, C++, Scrum, Accounting, Machine Learning, Agile, Deep Learning. Education: High School.","Content Writing, C++, Scrum, Accounting, Machine Learning, Agile, Deep Learning",3 years,PhD
+Candidate 26,"Candidate 26 with 19 years experience in SQL, Data Analysis, Adobe Illustrator, SEO, Machine Learning. Education: Bachelors.","SQL, Data Analysis, Adobe Illustrator, SEO, Machine Learning",5 years,Bachelors
+Candidate 27,"Candidate 27 with 6 years experience in Healthcare, SQL, Project Management, Node.js, Flask. Education: High School.","Healthcare, SQL, Project Management, Node.js, Flask",13 years,PhD
+Candidate 28,"Candidate 28 with 4 years experience in Communication, Django, Azure, C++, Tableau. Education: Bachelors.","Communication, Django, Azure, C++, Tableau",7 years,High School
+Candidate 29,"Candidate 29 with 12 years experience in Research, Agile, HTML. Education: High School.","Research, Agile, HTML",1 years,Bachelors
+Candidate 30,"Candidate 30 with 1 years experience in Collaboration, Docker, Content Writing, Communication, Accounting. Education: Masters.","Collaboration, Docker, Content Writing, Communication, Accounting",19 years,Bachelors
+Candidate 31,"Candidate 31 with 1 years experience in Angular, Communication, Machine Learning, React, Docker. Education: High School.","Angular, Communication, Machine Learning, React, Docker",2 years,PhD
+Candidate 32,"Candidate 32 with 5 years experience in Copywriting, Figma, Python, SEO, Vue, Node.js. Education: PhD.","Copywriting, Figma, Python, SEO, Vue, Node.js",12 years,High School
+Candidate 33,"Candidate 33 with 19 years experience in Azure, JavaScript, Tableau, Leadership, HTML, Healthcare. Education: High School.","Azure, JavaScript, Tableau, Leadership, HTML, Healthcare",6 years,Bachelors
+Candidate 34,"Candidate 34 with 3 years experience in Java, HTML, Data Analysis, Leadership, UI Design, Vue, Agile. Education: Bachelors.","Java, HTML, Data Analysis, Leadership, UI Design, Vue, Agile",4 years,Masters
+Candidate 35,"Candidate 35 with 1 years experience in Kubernetes, Tableau, Docker. Education: Masters.","Kubernetes, Tableau, Docker",7 years,Masters
+Candidate 36,"Candidate 36 with 8 years experience in Healthcare, Java, C#, AWS, Tableau. Education: Masters.","Healthcare, Java, C#, AWS, Tableau",2 years,PhD
+Candidate 37,"Candidate 37 with 5 years experience in Python, Taxation, Time Management. Education: PhD.","Python, Taxation, Time Management",8 years,High School
+Candidate 38,"Candidate 38 with 4 years experience in Flask, Docker, Customer Support. Education: Bachelors.","Flask, Docker, Customer Support",5 years,Masters
+Candidate 39,"Candidate 39 with 3 years experience in SEO, Clinical Trials, Project Management, Collaboration, Scrum, Marketing, JavaScript. Education: Masters.","SEO, Clinical Trials, Project Management, Collaboration, Scrum, Marketing, JavaScript",5 years,High School
+Candidate 40,"Candidate 40 with 9 years experience in Azure, Adobe Photoshop, Financial Analysis, C++, Leadership. Education: PhD.","Azure, Adobe Photoshop, Financial Analysis, C++, Leadership",13 years,High School
+Candidate 41,"Candidate 41 with 17 years experience in Scrum, Leadership, Adobe Photoshop, Collaboration, SQL. Education: Bachelors.","Scrum, Leadership, Adobe Photoshop, Collaboration, SQL",20 years,High School
+Candidate 42,"Candidate 42 with 16 years experience in Jira, Power BI, CSS, C#. Education: Masters.","Jira, Power BI, CSS, C#",16 years,Masters
+Candidate 43,"Candidate 43 with 16 years experience in Collaboration, Testing, Data Analysis, Research, Vue, Figma, Agile. Education: Masters.","Collaboration, Testing, Data Analysis, Research, Vue, Figma, Agile",4 years,PhD
+Candidate 44,"Candidate 44 with 14 years experience in Azure, AWS, C++, Adobe Photoshop, Clinical Trials. Education: High School.","Azure, AWS, C++, Adobe Photoshop, Clinical Trials",9 years,PhD
+Candidate 45,"Candidate 45 with 20 years experience in Content Writing, Leadership, UX Design, JavaScript, Deep Learning, Copywriting. Education: High School.","Content Writing, Leadership, UX Design, JavaScript, Deep Learning, Copywriting",20 years,PhD
+Candidate 46,"Candidate 46 with 9 years experience in Scrum, SQL, Figma, Accounting. Education: Bachelors.","Scrum, SQL, Figma, Accounting",12 years,PhD
+Candidate 47,"Candidate 47 with 12 years experience in Vue, UI Design, Figma, Adobe Illustrator, Problem Solving, Scrum, SQL. Education: PhD.","Vue, UI Design, Figma, Adobe Illustrator, Problem Solving, Scrum, SQL",19 years,High School
+Candidate 48,"Candidate 48 with 12 years experience in Time Management, Azure, GCP. Education: PhD.","Time Management, Azure, GCP",7 years,Bachelors
+Candidate 49,"Candidate 49 with 12 years experience in C#, Django, Statistics, Java, Content Writing, Jira, CSS. Education: Masters.","C#, Django, Statistics, Java, Content Writing, Jira, CSS",15 years,Bachelors
+Candidate 50,"Candidate 50 with 13 years experience in Machine Learning, UI Design, Research, Angular, Content Writing, SQL, CSS. Education: PhD.","Machine Learning, UI Design, Research, Angular, Content Writing, SQL, CSS",2 years,Bachelors
+Candidate 51,"Candidate 51 with 16 years experience in Vue, Statistics, JavaScript. Education: Masters.","Vue, Statistics, JavaScript",1 years,Masters
+Candidate 52,"Candidate 52 with 15 years experience in Deep Learning, Flask, Adobe Illustrator, Adobe Photoshop. Education: Masters.","Deep Learning, Flask, Adobe Illustrator, Adobe Photoshop",10 years,Masters
+Candidate 53,"Candidate 53 with 8 years experience in Content Writing, Deep Learning, C++. Education: High School.","Content Writing, Deep Learning, C++",9 years,High School
+Candidate 54,"Candidate 54 with 13 years experience in Marketing, Problem Solving, Content Writing, Machine Learning. Education: PhD.","Marketing, Problem Solving, Content Writing, Machine Learning",14 years,Bachelors
+Candidate 55,"Candidate 55 with 3 years experience in Adobe Illustrator, Flask, Statistics, Figma, AWS, Vue, Power BI. Education: PhD.","Adobe Illustrator, Flask, Statistics, Figma, AWS, Vue, Power BI",6 years,Bachelors
+Candidate 56,"Candidate 56 with 7 years experience in C++, Project Management, Kubernetes, Healthcare, Deep Learning, AWS, C#. Education: High School.","C++, Project Management, Kubernetes, Healthcare, Deep Learning, AWS, C#",18 years,High School
+Candidate 57,"Candidate 57 with 11 years experience in Adobe Photoshop, Clinical Trials, Kubernetes, Financial Analysis, Tableau, Communication, Copywriting. Education: PhD.","Adobe Photoshop, Clinical Trials, Kubernetes, Financial Analysis, Tableau, Communication, Copywriting",17 years,Masters
+Candidate 58,"Candidate 58 with 4 years experience in AWS, Java, React, HTML, Taxation, Adobe Photoshop, Machine Learning. Education: PhD.","AWS, Java, React, HTML, Taxation, Adobe Photoshop, Machine Learning",12 years,Masters
+Candidate 59,"Candidate 59 with 6 years experience in Accounting, Collaboration, Flask, Financial Analysis. Education: PhD.","Accounting, Collaboration, Flask, Financial Analysis",4 years,Masters
+Candidate 60,"Candidate 60 with 14 years experience in HTML, Figma, Marketing, Django, SEO, Adobe Photoshop. Education: High School.","HTML, Figma, Marketing, Django, SEO, Adobe Photoshop",12 years,PhD
+Candidate 61,"Candidate 61 with 19 years experience in Time Management, Kubernetes, Agile. Education: Bachelors.","Time Management, Kubernetes, Agile",3 years,High School
+Candidate 62,"Candidate 62 with 9 years experience in Django, Leadership, Flask. Education: PhD.","Django, Leadership, Flask",2 years,Bachelors
+Candidate 63,"Candidate 63 with 2 years experience in Python, Communication, Accounting, Marketing, Azure. Education: Masters.","Python, Communication, Accounting, Marketing, Azure",11 years,Bachelors
+Candidate 64,"Candidate 64 with 19 years experience in Marketing, Adobe Photoshop, Clinical Trials. Education: PhD.","Marketing, Adobe Photoshop, Clinical Trials",9 years,Masters
+Candidate 65,"Candidate 65 with 7 years experience in C++, Node.js, Figma, Copywriting, AWS. Education: Masters.","C++, Node.js, Figma, Copywriting, AWS",4 years,Masters
+Candidate 66,"Candidate 66 with 18 years experience in Copywriting, Agile, Power BI, Research. Education: PhD.","Copywriting, Agile, Power BI, Research",5 years,Masters
+Candidate 67,"Candidate 67 with 9 years experience in React, Healthcare, Project Management, C#. Education: Masters.","React, Healthcare, Project Management, C#",11 years,Bachelors
+Candidate 68,"Candidate 68 with 7 years experience in Angular, React, Scrum, Vue. Education: PhD.","Angular, React, Scrum, Vue",17 years,High School
+Candidate 69,"Candidate 69 with 13 years experience in C++, Adobe Illustrator, Accounting, Collaboration. Education: Masters.","C++, Adobe Illustrator, Accounting, Collaboration",17 years,Masters
+Candidate 70,"Candidate 70 with 11 years experience in SEO, Taxation, Django, Content Writing, C++, Time Management, Financial Analysis. Education: Masters.","SEO, Taxation, Django, Content Writing, C++, Time Management, Financial Analysis",16 years,Masters
+Candidate 71,"Candidate 71 with 7 years experience in C++, SQL, Tableau, C#, Collaboration, Python. Education: Bachelors.","C++, SQL, Tableau, C#, Collaboration, Python",8 years,Masters
+Candidate 72,"Candidate 72 with 8 years experience in Django, JavaScript, SQL, Adobe Photoshop, Flask. Education: PhD.","Django, JavaScript, SQL, Adobe Photoshop, Flask",2 years,Bachelors
+Candidate 73,"Candidate 73 with 6 years experience in AWS, Machine Learning, Figma, Angular, JavaScript, Testing. Education: PhD.","AWS, Machine Learning, Figma, Angular, JavaScript, Testing",7 years,Masters
+Candidate 74,"Candidate 74 with 12 years experience in Marketing, Flask, Scrum. Education: Bachelors.","Marketing, Flask, Scrum",17 years,High School
+Candidate 75,"Candidate 75 with 12 years experience in Adobe Illustrator, Data Analysis, Jira. Education: Masters.","Adobe Illustrator, Data Analysis, Jira",1 years,Masters
+Candidate 76,"Candidate 76 with 15 years experience in Kubernetes, C++, Adobe Illustrator, Healthcare, Docker, Communication. Education: High School.","Kubernetes, C++, Adobe Illustrator, Healthcare, Docker, Communication",5 years,High School
+Candidate 77,"Candidate 77 with 4 years experience in Statistics, Healthcare, UX Design, Jira. Education: Masters.","Statistics, Healthcare, UX Design, Jira",12 years,Bachelors
+Candidate 78,"Candidate 78 with 3 years experience in Research, Machine Learning, Copywriting, Docker, C#, UI Design. Education: PhD.","Research, Machine Learning, Copywriting, Docker, C#, UI Design",16 years,High School
+Candidate 79,"Candidate 79 with 8 years experience in Azure, Figma, JavaScript, Copywriting, Collaboration. Education: Masters.","Azure, Figma, JavaScript, Copywriting, Collaboration",12 years,Masters
+Candidate 80,"Candidate 80 with 14 years experience in CSS, Research, Time Management. Education: High School.","CSS, Research, Time Management",11 years,Bachelors
+Candidate 81,"Candidate 81 with 5 years experience in Python, AWS, Jira, JavaScript. Education: PhD.","Python, AWS, Jira, JavaScript",19 years,High School
+Candidate 82,"Candidate 82 with 3 years experience in Collaboration, Jira, Accounting, UX Design, UI Design, GCP, Vue. Education: High School.","Collaboration, Jira, Accounting, UX Design, UI Design, GCP, Vue",4 years,Bachelors
+Candidate 83,"Candidate 83 with 11 years experience in Project Management, Jira, HTML, UI Design, Docker. Education: PhD.","Project Management, Jira, HTML, UI Design, Docker",1 years,High School
+Candidate 84,"Candidate 84 with 4 years experience in Collaboration, Power BI, Healthcare, Adobe Illustrator, Azure. Education: High School.","Collaboration, Power BI, Healthcare, Adobe Illustrator, Azure",6 years,PhD
+Candidate 85,"Candidate 85 with 2 years experience in Figma, Healthcare, C#. Education: Masters.","Figma, Healthcare, C#",4 years,High School
+Candidate 86,"Candidate 86 with 7 years experience in C#, Adobe Illustrator, Time Management, Collaboration, Docker, Marketing, C++. Education: High School.","C#, Adobe Illustrator, Time Management, Collaboration, Docker, Marketing, C++",3 years,Bachelors
+Candidate 87,"Candidate 87 with 15 years experience in Research, Collaboration, Healthcare, Data Analysis, JavaScript, Copywriting. Education: Bachelors.","Research, Collaboration, Healthcare, Data Analysis, JavaScript, Copywriting",10 years,Bachelors
+Candidate 88,"Candidate 88 with 3 years experience in Scrum, Power BI, Testing. Education: Bachelors.","Scrum, Power BI, Testing",10 years,High School
+Candidate 89,"Candidate 89 with 19 years experience in Azure, Copywriting, Kubernetes, Financial Analysis. Education: PhD.","Azure, Copywriting, Kubernetes, Financial Analysis",3 years,High School
+Candidate 90,"Candidate 90 with 3 years experience in Leadership, Time Management, Azure, React, Django, Python, JavaScript. Education: High School.","Leadership, Time Management, Azure, React, Django, Python, JavaScript",15 years,Masters
+Candidate 91,"Candidate 91 with 16 years experience in Leadership, Kubernetes, Node.js. Education: PhD.","Leadership, Kubernetes, Node.js",14 years,Bachelors
+Candidate 92,"Candidate 92 with 11 years experience in Scrum, Django, Machine Learning, C#, Statistics, Data Analysis, Communication. Education: Bachelors.","Scrum, Django, Machine Learning, C#, Statistics, Data Analysis, Communication",8 years,Masters
+Candidate 93,"Candidate 93 with 16 years experience in Flask, Clinical Trials, Vue, Agile. Education: Bachelors.","Flask, Clinical Trials, Vue, Agile",5 years,Masters
+Candidate 94,"Candidate 94 with 4 years experience in Customer Support, React, Node.js, Marketing, Power BI, Leadership. Education: Bachelors.","Customer Support, React, Node.js, Marketing, Power BI, Leadership",14 years,PhD
+Candidate 95,"Candidate 95 with 20 years experience in Vue, Deep Learning, UI Design, CSS, Customer Support. Education: High School.","Vue, Deep Learning, UI Design, CSS, Customer Support",17 years,Bachelors
+Candidate 96,"Candidate 96 with 15 years experience in Marketing, Adobe Photoshop, Machine Learning, GCP, CSS, Financial Analysis, Flask. Education: High School.","Marketing, Adobe Photoshop, Machine Learning, GCP, CSS, Financial Analysis, Flask",16 years,PhD
+Candidate 97,"Candidate 97 with 2 years experience in UX Design, Docker, Java, React. Education: High School.","UX Design, Docker, Java, React",9 years,PhD
+Candidate 98,"Candidate 98 with 16 years experience in Node.js, Figma, AWS, Azure, Accounting, Agile. Education: Bachelors.","Node.js, Figma, AWS, Azure, Accounting, Agile",2 years,Bachelors
+Candidate 99,"Candidate 99 with 18 years experience in Clinical Trials, Problem Solving, SQL. Education: PhD.","Clinical Trials, Problem Solving, SQL",2 years,Bachelors
+Candidate 100,"Candidate 100 with 16 years experience in Taxation, Financial Analysis, Collaboration, GCP, Django, C++, Vue. Education: Masters.","Taxation, Financial Analysis, Collaboration, GCP, Django, C++, Vue",19 years,High School

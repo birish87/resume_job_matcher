@@ -1,0 +1,95 @@
+Python
+SQL
+Machine Learning
+Deep Learning
+Data Analysis
+Statistics
+Java
+C++
+C#
+JavaScript
+React
+Vue
+Angular
+HTML
+CSS
+Node.js
+Django
+Flask
+AWS
+Azure
+GCP
+Docker
+Kubernetes
+Agile
+Scrum
+Jira
+Project Management
+UX Design
+UI Design
+Adobe Photoshop
+Adobe Illustrator
+Figma
+Tableau
+Power BI
+Communication
+Leadership
+Marketing
+SEO
+Content Writing
+Copywriting
+Financial Analysis
+Accounting
+Taxation
+Healthcare
+Clinical Trials
+Research
+Testing
+Problem Solving
+Time Management
+Collaboration
+Customer Support
+Test Automation
+Automation
+Selenium
+Cypress
+Jenkins
+Git
+GitHub
+GitLab
+Bitbucket
+CI/CD
+Linux
+Windows
+MacOS
+Networking
+Cybersecurity
+Penetration Testing
+Ethical Hacking
+Blockchain
+Cryptocurrency
+Smart Contracts
+NFTs
+Game Development
+Unity
+Unreal Engine
+Mobile Development
+iOS
+Android
+Swift
+Kotlin
+React Native
+Flutter
+AR/VR
+3D Modeling
+Blender
+Maya
+ZBrush
+Animation
+After Effects
+Premiere Pro
+PMP
+Six Sigma
+Lean Management
+Change Management
+Business Analysis
