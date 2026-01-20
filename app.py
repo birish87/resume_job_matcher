@@ -132,7 +132,7 @@ class JobResumeMatcher:
         )
 
     # ========================================================
-    # Synonym normalization (not currently used)
+    # Synonym normalization
     # =======================================================
     def normalize_synonyms(self, text: str) -> str:
         """
