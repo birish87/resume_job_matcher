@@ -258,7 +258,7 @@ Authentication & user profiles
 ```
 ---
 
-### Applications
+## Novel Business Use Case
 ```text
 This system can be used to compile a group of SMEs when the DELPHI method is used for consensus building.
 LinkedIn being the largest global professional network, this can serve as an incentive for professionals to join LinkedIn Premium.
